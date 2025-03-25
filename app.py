@@ -13,6 +13,7 @@ st.write(f"Your BMI is: {BMI:2f}")
 st.write("### BMI Category ###")
 st.write("-Underweight: BMI less then 18.5")
 st.write("Normal weight : BMI between 18.5 and 24.5")
-st.write("Overweight: BMI between 25 and 29.9");
-st.write("Overweight: BMI greater then 30");
+st.write("Overweight: BMI between 25 and 29.9")
+st.write("Overweight: BMI greater then 30")
 
+  
